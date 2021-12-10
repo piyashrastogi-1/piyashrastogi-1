@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **HIC**
 
-- 🌱 I’m currently learning **React, React-Native**
+- 🌱 I’m currently learning **Angular, React-Native**
 
 - 💬 Ask me about **Java,HTML,CSS,React,React-Native**
 
