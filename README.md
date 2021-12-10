@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular, React-Native**
 
-- 💬 Ask me about **Java,HTML,CSS,React,React-Native**
+- 💬 Ask me about **Java,HTML,CSS,Angular,React-Native**
 
 - 📫 How to reach me **https://www.linkedin.com/in/piyashrastogi1/**
 
