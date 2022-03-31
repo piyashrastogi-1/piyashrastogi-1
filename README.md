@@ -3,11 +3,11 @@
  
 
 
-- 🔭 I’m currently working on **HIC**
+- 🔭 I’m currently working on **Rojgaar**
 
-- 🌱 I’m currently learning **Angular, React-Native**
+- 🌱 I’m currently learning **React, React-Native**
 
-- 💬 Ask me about **Java,HTML,CSS,Angular,React-Native**
+- 💬 Ask me about **Java,HTML,CSS,React,React-Native**
 
 - 📫 How to reach me **https://www.linkedin.com/in/piyashrastogi1/**
 
