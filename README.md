@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Rojgaar**
 
-- 🌱 I’m currently learning **React, React-Native**
+- 🌱 I’m currently learning **RUST**
 
-- 💬 Ask me about **Java,HTML,CSS,React,React-Native**
+- 💬 Ask me about **Java,HTML,CSS,React,React-Native, Node, Express, MongoDB, Serverless**
 
 - 📫 How to reach me **https://www.linkedin.com/in/piyashrastogi1/**
 
